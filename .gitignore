@@ -1,0 +1,18 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+*.Rproj
+
+.DS_Store
+*~
+*.bak
+.cache*
+
+# secret/private files 
+password.txt
+
+# guge files 
+my_25GB-epic-movie.mp4
+
